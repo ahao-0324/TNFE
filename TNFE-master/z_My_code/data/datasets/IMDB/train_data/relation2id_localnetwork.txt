@@ -1,0 +1,7 @@
+5
+am	0
+ma	1
+md	2
+dm	3
+aa	4
+mm	5
