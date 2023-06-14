@@ -1,0 +1,7 @@
+5
+ap	0
+pa	1
+pv	2
+vp	3
+aa	4
+pp	5
